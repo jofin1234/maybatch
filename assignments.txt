@@ -2,3 +2,9 @@ Git Assignment 1st JUNE
 task1: try git cheat sheet commands
 task2: check different branching strategies available in market
 task3: try commands discussed in class
+
+2nd june
+task1: go through git hub platform
+task2: check what is git hub actions.
+task3: try to configure self hosted agent
+task4: try ssh method to authenticate in git hub
