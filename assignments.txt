@@ -7,3 +7,4 @@ task3: try commands discussed in class
 task1: go through git hub platform
 task2: check what is git hub actions.
 task3: try to configure self hosted agent
+task4: try ssh method to authenticate in git hub
